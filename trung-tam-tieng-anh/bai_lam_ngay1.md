@@ -2,7 +2,7 @@
 
 - **Họ tên:** Nguyễn Đức Tài
 - **Lớp:** Công nghệ thông tin 2
-- **Link repository:** 
+- **Link repository:** https://github.com/nguyentai090520082010/HN-KS26-CNTT2_Nhap-mon-CNTT_OnTap-Ngay1.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## Phần A. Tổ chức thư mục bằng GUI
